@@ -4,7 +4,7 @@
 
 <code><a href="https://siemens.com/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg"></a></code>
 
-My name is **Kadir Sert** and I am a software developer at Siemens AG, Germany.
+My name is **Kadir** and I am a software developer at Siemens AG, Germany.
 
 I completed my studies at Nuremberg University of Applied Sciences in 2024. My subject areas are mechatronics and computer sciences and instructional technologies. I enjoy learning new things, am hardworking and very enthusiastic about technology. ✨
 
