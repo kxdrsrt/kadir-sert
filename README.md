@@ -5,7 +5,9 @@ I am **Kadir**, a passionate Software Engineer at Siemens AG.
   <img height="60" src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg" alt="Siemens Logo">
 </a>
 
-Born and raised in the vibrant city of Erlangen, Germany, I graduated from Nuremberg University of Applied Sciences in 2024 with a degree in Mechatronics / Precision Engineering. My professional journey is fueled by a love for learning and a zeal for technological innovation. Specializing in instructional technologies, advanced software development, and automation processes, I am dedicated to creating impactful solutions that drive progress and efficiency. My commitment to excellence and enthusiasm for leveraging technology defines who I am and what I do.
+Born and raised in the vibrant city of Erlangen, Germany, I graduated from Nuremberg University of Applied Sciences in 2024 with a degree in Mechatronics / Precision Engineering. My professional journey is fueled by a love for learning and a zeal for technological innovation.
+
+Specializing in instructional technologies, advanced software development, and automation processes, I am dedicated to creating impactful solutions that drive progress and efficiency. My commitment to excellence and enthusiasm for leveraging technology defines who I am and what I do.
 
 ![Kadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxdrsrt&show_icons=true)
 
