@@ -1,9 +1,5 @@
 # Hi there 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kxdrsrt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <a href="https://siemens.com/" target="_blank">
   <img height="60" src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg" alt="Siemens Logo">
 </a>
